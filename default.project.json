@@ -9,7 +9,7 @@
         "ReplicatedStorage": {
             "$ignoreUnknownInstances": true,
             "$className": "ReplicatedStorage",
-            "$path": "src/Client",
+            "$path": "src/Shared",
 
             "Packages": {
                 "$path": "Packages"

@@ -1,10 +1,20 @@
 [package]
-name = "steviegoodman/unnamed-project"
-description = "No description provided."
+name = "chesapeake/game-template"
+description = "Template for Chesapeake Studio games."
 version = "1.0.0"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
+private = true
 
 [dependencies]
 Cmdr = "evaera/cmdr@1.12.0"
 Comm = "sleitnick/comm@1.0.1"
+Component = "sleitnick/component@2.4.8"
+Knit = "sleitnick/knit@1.7.0"
+Observers = "sleitnick/observers@0.3.4"
+ProfileService = "surnautica/profileservice@1.0.0"
+Promise = "evaera/promise@4.0.0"
+TableUtil = "sleitnick/table-util@1.2.0"
+Trove = "sleitnick/trove@1.5.0"
+Signal = "sleitnick/signal@1.5.0"
+Waiter = "steviegoodman/waiter@6.1.0"
